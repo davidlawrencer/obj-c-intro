@@ -56,8 +56,8 @@ int main(int argc, const char * argv[]) {
 
 
 /*
- Objc - lets us stay objective
- - is it the foundation for Swift?
+ Objc - lets us stay objective? sure, Alex
+ - is it the foundation for Swift? Not, but it works with it
  - we use its functions for when we make buttons, it interacts well with UIKit
  Why learn it?
  - looks good on a resume
