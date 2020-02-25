@@ -29,7 +29,7 @@ int main(int argc, const char * argv[]) {
         // Only can take a string, and you have to tell it where AND when to insert other types to be logged out
         // @ denotes a literal (talk more on Thursday)
         
-        // In order to print stuff, we have to use string formatters in-text, with the values afterwards
+        // In order to print stuff, we have to use string formatters in-text, with the values afterwards as arguments to the NSLog function
         // %f for decimals -> standard decimal in most languages is float, double has double the space
         // %@ for id -> which relates to objects
         // %d is for int!!!! we did it!
